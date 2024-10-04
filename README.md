@@ -3,32 +3,19 @@
 Here you will find the documentation for the **Business Galore** project.
 
 - [Documentation](#documentation)
-  - [User Stories](#user-stories)
-  - [Class-Responsibility-Collaboration (CRC)](#class-responsibility-collaboration-crc)
-  - [Class Diagram](#class-diagram)
+  - [Official Document](#official-document)
   - [Paper](#paper)
   - [Poster](#poster)
 
-## User Stories
+## Official Document
+In this directory, you will find the official project document. By accessing the document, you will gain access to the documentation, report, and other relevant details about the project.
 
-The user stories for our project were gathered according to the roles in our application. The roles in our application are:
-  - Customer
-  - Employee
-  - Manager
+## Paper
 
-The user stories allowed us to detail the needs or improvements related to each role and understand why these improvements were included.
+You will find relevant information from the completed paper, which addresses technical details of the project.
 
-## Class-Responsibility-Collaboration (CRC)
-
-Based on the user stories, we developed the **Class-Responsibility-Collaboration** cards. These cards allow us to list the entities, their unique responsibilities, and the entities they are related to.
-
-## Class Diagram
-
-We represented the static structure of the system using UML diagrams. The included diagrams are:
-  - Class Diagram
-  - Activity Diagram
-  - Sequence Diagram
-  - Deployment Diagram
+## Poster
+You will find in this directory the illustration that condenses all the information from the completed paper.
 
 
 
